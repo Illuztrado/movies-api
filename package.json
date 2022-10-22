@@ -1,15 +1,25 @@
 {
-  "name": "rap-names-api",
+  "name": "movies-api",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
+    "ejs": "^3.1.8",
     "express": "^4.18.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Illuztrado/movies-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Illuztrado/movies-api/issues"
+  },
+  "homepage": "https://github.com/Illuztrado/movies-api#readme",
+  "description": ""
 }
