@@ -1,0 +1,39 @@
+body {
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  background: #092871;
+  display:block;
+}
+
+h1 {
+  color: #f23c36;
+}
+
+div {
+  display:flex
+  flex-direction: column;
+  float:left;
+  margin:20px;
+  width: auto;
+  height:80%;
+  justify-content: center;
+  align-items: center;
+  background: #ffc857;
+  color: 323031;
+  border-radius: 20px;
+  padding: 10px;
+  
+  
+}
+
+/* p {
+  display:flex;
+  flex-direction: column;
+  text-align:center;
+  align-self:center;
+  align-items: flex-start;
+} */
+
+.filmcontent {
+    text-align:center;
+
+}
